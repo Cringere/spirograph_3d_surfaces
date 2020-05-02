@@ -1,0 +1,6 @@
+#dependencies and object files folders 
+obj/
+dep/
+
+#executable file
+./bin/spiro_surfaces
